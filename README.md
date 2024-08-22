@@ -1,2 +1,1 @@
-# NextJs-Project-Boilarplate
- NextJs-Project-Boilarplate
+# Next Js Project Boilerplate
